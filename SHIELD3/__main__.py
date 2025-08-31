@@ -1,7 +1,7 @@
 import asyncio
 import importlib
 from pyrogram import idle
-from SHIELD3 import SHIELD3
+from SHIELD3 import __int__
 from SHIELD3.modules import ALL_MODULES
 
 LOGGER_ID = -1002681848382
